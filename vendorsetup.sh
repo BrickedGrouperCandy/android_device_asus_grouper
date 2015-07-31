@@ -20,4 +20,6 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo aosp_grouper-userdebug
+add_lunch_combo candy5_grouper-eng
+add_lunch_combo candy5_grouper-userdebug
+add_lunch_combo candy5_grouper-user
